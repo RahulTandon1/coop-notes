@@ -1,0 +1,5 @@
+- use Review Article and Theses for understanding stuff
+- information theory course, fourier transform course, 
+- book to read: https://arxiv.org/abs/2011.04672v2
+- wiretap attack
+- 

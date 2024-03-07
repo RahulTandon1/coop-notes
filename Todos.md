@@ -1,0 +1,3 @@
+- Stating of problem
+	- state assumptions from both sides.
+	- 
