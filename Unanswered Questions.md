@@ -36,8 +36,47 @@ Question:
 - Who assigns a router an IP address?
 - Does the switch have an IP address? Can nodes tell whether they're connected to a router via a switch, or they cannot?
 - how does tcpdump perform ip address -> name mapping? Sounds like a reverse DNS lookup.
+- Should an application/program be able to choose a scheduler? Are there any guarantees one can get about a scheduler?
+
+```
+public static void show() {  
+  
+    Map<Integer, String> numbers = new ConcurrentHashMap<>();  
+    var thread1 = new Thread(() -> {  
+        numbers.put(1, "A");  
+        numbers.put(2, "A");  
+        numbers.put(3, "A");  
+        numbers.put(4, "A");  
+        numbers.put(5, "A");  
+        numbers.put(6, "A");  
+    });  
+  
+    var thread2 = new Thread(() -> {  
+        numbers.put(1, "B");  
+        numbers.put(2, "B");  
+        numbers.put(3, "B");  
+        numbers.put(4, "B");  
+        numbers.put(5, "B");  
+        numbers.put(7, "B");  
+    });  
+  
+    thread1.start();  
+    thread2.start();  
+  
+    try {  
+        thread1.join();  
+        thread2.join();  
+    } catch (InterruptedException e) {  
+        throw new RuntimeException(e);  
+    }  
+  
+    System.out.println(numbers);  
+}
+```
 ---
 
 - Why does the file still reach me if there's an issue when running OpenQKDNetwork in the office?
 - Why does `qkd-kaiduan-a.tar` have B_0 and C_0 in it's `.qkd/qnl/qll/keys` dirs?
-- 
+
+--
+How does qkd-net's KMS handle multiple QKD connections? triangle with A,B,C.

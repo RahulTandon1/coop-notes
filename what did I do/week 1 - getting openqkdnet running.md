@@ -13,5 +13,5 @@ We run OpenQKDNet and got alice and bob working. The end result looked something
 **Reflecting on what this means**
 - So we got 2 nodes to "talk to each other".
 - We got a file transferred between these nodes "somehow"
-- Not sure how thought.
+- Not sure how though.
 - There's something related to an SSL/TLS PSK Hint. No clue what that means. I think it's something related to fast session-restart.

@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "521f1b0bc88cef18",
+        "id": "24850054139ab07d",
         "type": "tabs",
         "children": [
           {
-            "id": "d476efd0b5534ecd",
+            "id": "2227df45e4c69bee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basquana.md",
+                "file": "what did I do/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bd7a9251f36a8cd",
+            "id": "0e5e2c999ed442d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week 1 - getting openqkdnet running.md",
+                "file": "what did I do/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "e381ee1b73d418bd",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basquana.md",
+                "file": "what did I do/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basquana.md",
+                "file": "what did I do/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basquana.md"
+                "file": "what did I do/Index.md"
               }
             }
           }
@@ -158,35 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a618f111880951b",
+  "active": "0e5e2c999ed442d2",
   "lastOpenFiles": [
-    "Todos.md",
-    "Overview of Internship Goals.md",
-    "OpenSSL Tutorial.md",
-    "openqkdnet docs.md",
-    "Networking 101.md",
-    "Meeting.md",
-    "Log.md",
-    "Jargon.md",
-    "GDB Tutorial.md",
-    "Explaining the code to myself.md",
-    "Ciphertext Indistinguishability.md",
-    "Brain blob.md",
-    "Basquana.md",
-    "Agenda for UCalgary meeting.md",
-    "10th Jan.md",
-    "8th Jan.md",
-    "media/Screenshot from 2024-02-09 16-26-50.png",
-    "week 1 - getting openqkdnet running.md",
+    "Screenshot from 2024-01-18 15-15-03.png",
+    "Screenshot from 2024-01-18 15-16-40.png",
+    "what did I do/Mon, 8th April.md",
+    "what did I do/Index.md",
+    "Untitled 1.md",
+    "what did I do/Wed, March 6.md",
+    "what did I do/week 1 - getting openqkdnet running.md",
     "Untitled.md",
+    "what did I do/week 2 - openssl.md",
     "Unanswered Questions.md",
-    "week 2 - openssl.md",
-    "To read.md",
-    "tcpdump.md",
+    "E.md",
+    "8th Jan.md",
     "triple key exchange.md",
-    "Quantum Days/General.md",
-    "Quantum Days/Companies, Institutions & Software.md",
-    "Quantum Days/Quantum X.md",
+    "Key Gen in Code.md",
+    "openqkdnet docs.md",
+    "OpenSSL Tutorial.md",
+    "Overview of Internship Goals.md",
+    "Prof Mosca Paper.md",
+    "SSL & TLS.md",
+    "task - ETSI 14 support.md",
+    "tcpdump.md",
+    "To read.md",
+    "Todos.md",
+    "Tuesday meeting.md",
+    "Work assigned.md",
+    "Ciphertext Indistinguishability.md",
+    "CSC Cloud Experiment.md",
+    "Netty in Action",
+    "media/march-6-bob.png",
+    "media/march-6-alice.png",
+    "media/Screenshot from 2024-02-09 16-26-50.png",
+    "what did I do",
     "Quantum Days",
     "qkd",
     "media",

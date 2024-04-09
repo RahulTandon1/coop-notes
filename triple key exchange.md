@@ -73,3 +73,37 @@ int (*callback) (char* get_key_url, char ** key, int* keylen)
 void SSL_set_oqkd_new_key_callback(SSL *s, int (*callback)(char * new_key_url, char** key, int* keylen, char** get_key_url))
 ```
 
+---
+
+required libraries:
+liboqs:
+```
+astyle cmake gcc ninja-build libssl-dev python3-pytest python3-pytest-xdist unzip xsltproc doxygen graphviz python3-yaml valgrind
+
+```
+
+openssl:
+```
+cmake gcc libtool libssl-dev make ninja-build git
+```
+
+qkd-net:
+```
+ 1. Java SDK 8 or later - [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+2. Maven - [https://maven.apache.org/](https://maven.apache.org/) or apt-get, if on Ubuntu
+3. screen - apt-get, if on Ubuntu
+4. git - apt-get, if on Ubuntu
+5. libjson-c-dev
+
+On a Linux(Ubuntu) system apt-get can be used to install the programs.
+
+1. Curl
+2. jq
+
+```
+
+add to required things:
+- make gcc
+- libssldev (openssl)
+- libcurl4-openssl-dev ()
+

@@ -1,4 +1,4 @@
-https://2024.quantumdays.ca/en/program/
+rhttps://2024.quantumdays.ca/en/program/
 
 Hotlinks
 - [OQS OpenSSL Github](https://github.com/open-quantum-safe/openssl)
@@ -19,6 +19,13 @@ Wikipedia links:
 - https://www.nature.com/articles/s41598-021-84438-9
 - https://en.wikipedia.org/wiki/Decoy_state
 - https://en.wikipedia.org/wiki/Quantum_error_correction
+- https://en.wikipedia.org/wiki/Virtual_Router_Redundancy_Protocol
+- https://en.wikipedia.org/wiki/Opportunistic_TLS
+- https://www.cloudflare.com/learning/dns/glossary/reverse-dns/
+- https://en.wikipedia.org/wiki/OSGi
+- Quality of Service Measures
+- 
+
 
 https://www.ibm.com/docs/en/sdk-java-technology/8?topic=works-tls-13-handshake
 
@@ -45,3 +52,8 @@ Protocol Ossification
 
 Signal protocol: https://en.wikipedia.org/wiki/Signal_Protocol#cite_note-5
 https://signal.org/docs/
+
+https://www.qutube.nl/courses-10/quantum-101
+https://qutechacademy.nl/
+
+system env vars vs user env vars
