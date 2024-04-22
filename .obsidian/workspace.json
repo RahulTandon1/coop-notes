@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24850054139ab07d",
+        "id": "e53ea99bfc2879f1",
         "type": "tabs",
         "children": [
           {
-            "id": "2227df45e4c69bee",
+            "id": "3033dd565b9f0e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what did I do/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e5e2c999ed442d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what did I do/Index.md",
+                "file": "Task - ETSI Integration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "what did I do/Index.md",
+                "file": "Task - ETSI Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "what did I do/Index.md",
+                "file": "Task - ETSI Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "what did I do/Index.md"
+                "file": "Task - ETSI Integration.md"
               }
             }
           }
@@ -159,35 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e5e2c999ed442d2",
+  "active": "3033dd565b9f0e83",
   "lastOpenFiles": [
+    "triple key exchange.md",
+    "OpenSSL 3x Spike.md",
+    "Quantum Days/Companies, Institutions & Software.md",
+    "Task - ETSI Integration.md",
+    "SSL & TLS.md",
+    "To read.md",
+    "Todos.md",
+    "Untitled 1.md",
+    "what did I do/Index.md",
+    "Spring WebFlux 101.md",
+    "Explaining the code to myself.md",
+    "async in java.md",
+    "LSRP Exploration.md",
+    "docs for devs/Onboarding for coops.md",
+    "docs for devs/openqkdnet docs.md",
+    "docs for devs",
+    "task - ETSI 14 support.md",
+    "media/revised flow.png",
+    "media/overall flow.png",
+    "binary.md",
+    "what did I do/8th Jan.md",
+    "qkd/terms or jargon.md",
+    "Work assigned.md",
+    "Unanswered Questions.md",
     "Screenshot from 2024-01-18 15-15-03.png",
     "Screenshot from 2024-01-18 15-16-40.png",
     "what did I do/Mon, 8th April.md",
-    "what did I do/Index.md",
-    "Untitled 1.md",
     "what did I do/Wed, March 6.md",
     "what did I do/week 1 - getting openqkdnet running.md",
-    "Untitled.md",
     "what did I do/week 2 - openssl.md",
-    "Unanswered Questions.md",
     "E.md",
-    "8th Jan.md",
-    "triple key exchange.md",
-    "Key Gen in Code.md",
-    "openqkdnet docs.md",
-    "OpenSSL Tutorial.md",
-    "Overview of Internship Goals.md",
-    "Prof Mosca Paper.md",
-    "SSL & TLS.md",
-    "task - ETSI 14 support.md",
-    "tcpdump.md",
-    "To read.md",
-    "Todos.md",
-    "Tuesday meeting.md",
-    "Work assigned.md",
-    "Ciphertext Indistinguishability.md",
-    "CSC Cloud Experiment.md",
     "Netty in Action",
     "media/march-6-bob.png",
     "media/march-6-alice.png",

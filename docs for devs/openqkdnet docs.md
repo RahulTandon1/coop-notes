@@ -131,3 +131,8 @@ Also in `ssh_local.h`: oqkd_peer_msg in `ssl3_state_st`
 
 
 
+# Key Flow
+where is `RESP_GET_KP_BLOCK_INDEX` set as respOpID
+and opID = REQ_POST_ALLOC_KP_BLOCK
+
+

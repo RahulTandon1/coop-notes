@@ -188,4 +188,14 @@ Started at 9:34
 
 
 ### Week 15 (April 15th - April 19th)
+Wednesday - sped through Netty in Action. Need to modify the encoding & decoding of QNL Requests & Responses. Also want to come up with a better dev workflow, instead of git push, git pull, recompile, run qkd-net, run sample app, check logs.
+
+Task for tomorrow:
+- speed run bytebuf section
+- figure out how to mock a QNLREs/response and use it to test ChannelHandlers.
+
+Thursday
+- Took me like all day to read through the bytebuf section. In retrospect maybe this was unnecessary.
+- Got started on writing a test for RequestDecoder. I think there might be a bug in the decoder. Got partway through a fix but got into errors related to how maven is configured.
+
 ### Week 16 (April 23rd - April 26th)
